@@ -8,6 +8,6 @@
 </head>
 <body>
 		<h3>Hello.jsp</h3>
-		<h3>Hello.jsp 깃헙 사이트에서 수정</h3>
+		<h3>Hello.jsp 깃헙 사이트에서 수정 </h3>
 </body>
 </html>
