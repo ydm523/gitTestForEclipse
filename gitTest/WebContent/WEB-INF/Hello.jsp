@@ -8,6 +8,7 @@
 </head>
 <body>
 		<h3>Hello.jsp</h3>
-		<h3>Hello.jsp ê¹ƒí—™ ì‚¬ì´íŠ¸ì—ì„œ ìˆ˜ì • </h3>
+		<h3>Hello.jsp eclipse local¿¡¼­ ÀÛ¼º</h3>
+
 </body>
 </html>
